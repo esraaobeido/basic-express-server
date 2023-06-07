@@ -4,3 +4,5 @@
 [Pull request](https://github.com/esraaobeido/basic-express-server/pull/3)
 
 [Github Action](https://github.com/esraaobeido/basic-express-server/actions)
+
+ ![image](./screenshotLab2.png)
